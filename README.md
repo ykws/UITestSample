@@ -1,6 +1,6 @@
 # UITestSample
 
-[![Actions](https://github.com/ykws/UITestSample/workflows/Build/badge.svg)](https://github.com/ykws/UITestSample/actions)
+[![Actions](https://github.com/ykws/UITestSample/workflows/Test/badge.svg)](https://github.com/ykws/UITestSample/actions)
 
 こちらの記事のサンプルコードです。
 
